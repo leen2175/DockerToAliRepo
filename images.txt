@@ -4,3 +4,4 @@ mysql:8.4.3
 whyour/qinglong
 filebrowser/filebrowser
 postgres
+m1k1o/neko
