@@ -7,3 +7,6 @@ postgres
 m1k1o/neko
 cnk3x/xunlei
 germannewsmaker/myspeed
+containrrr/watchtower
+b4bz/homer
+portainer/portainer-ce
