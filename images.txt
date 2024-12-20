@@ -10,3 +10,4 @@ germannewsmaker/myspeed
 containrrr/watchtower
 b4bz/homer
 portainer/portainer-ce
+sigoden/dufs
