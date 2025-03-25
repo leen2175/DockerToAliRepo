@@ -11,4 +11,4 @@ containrrr/watchtower
 b4bz/homer
 portainer/portainer-ce
 sigoden/dufs
-hwwwww/golang-reverseproxy
+ghcr.io/open-webui/open-webui
